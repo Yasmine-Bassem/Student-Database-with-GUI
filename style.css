@@ -1,0 +1,31 @@
+/* style.css */
+window {
+    padding: 20px;
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+label {
+    font-size: 18px;
+    /* color: rgb(119, 99, 72); */
+
+}
+
+
+button {
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 14px; 
+    /* color:#0a152a; */
+    
+}
+
+
+
+entry {
+    color: #0e2149;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}

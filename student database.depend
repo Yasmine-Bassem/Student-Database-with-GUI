@@ -1,0 +1,227 @@
+# depslib dependency file v1.0
+1745938234 source:c:\users\solo\desktop\data structure project s+\student database\main.cpp
+	<iostream>
+	<stdlib.h>
+	"SDBAPP.h"
+
+1745938534 c:\users\solo\desktop\data structure project s+\student database\sdbapp.h
+	<stdlib.h>
+	"SDB.h"
+
+1745939773 c:\users\solo\desktop\data structure project s+\student database\sdb.h
+	<stdio.h>
+	"platform_types.h"
+
+1745938965 c:\users\solo\desktop\data structure project s+\student database\platform_types.h
+
+1746023599 source:c:\users\solo\desktop\data structure project s+\student database\sdb.cpp
+	<iostream>
+	"SDB.h"
+
+1746021765 source:c:\users\solo\desktop\data structure project s+\student database\sdbapp.cpp
+	<iostream>
+	"SDBAPP.h"
+	<unistd.h>
+
+1746103421 source:c:\users\yasmine\desktop\data structure project s+\student database\main.cpp
+	<gtk/gtk.h>
+	"GTKHelpers.h"
+
+1746103421 c:\users\yasmine\desktop\data structure project s+\student database\gtkhelpers.h
+	<gtk/gtk.h>
+	"SDB.h"
+
+1746102166 c:\users\yasmine\desktop\data structure project s+\student database\sdb.h
+	<stdio.h>
+	<stdbool.h>
+	"platform_types.h"
+	"GTKHelpers.h"
+
+1745938965 c:\users\yasmine\desktop\data structure project s+\student database\platform_types.h
+
+1746101993 source:c:\users\yasmine\desktop\data structure project s+\student database\sdb.cpp
+	"SDB.h"
+	"GTKHelpers.h"
+	<string.h>
+	<stdlib.h>
+
+1746103093 source:c:\users\yasmine\desktop\data structure project s+\student database\sdbapp.cpp
+	"GTKHelpers.h"
+	<string>
+
+1746103421 source:c:\users\yasmine\desktop\data structure project s+\student database\gtkhelpers.cpp
+	"GTKHelpers.h"
+	<string>
+
+1746127855 source:c:\users\yasmine\desktop\student database\gtkhelpers.cpp
+	"GTKHelpers.h"
+	<string>
+
+1746115371 c:\users\yasmine\desktop\student database\gtkhelpers.h
+	<gtk/gtk.h>
+	"SDB.h"
+	"SDBAPP.h"
+
+1746116750 c:\users\yasmine\desktop\student database\sdb.h
+	<stdio.h>
+	<stdbool.h>
+	"platform_types.h"
+	"GTKHelpers.h"
+	<string.h>
+	<stdlib.h>
+
+1745938965 c:\users\yasmine\desktop\student database\platform_types.h
+
+1746103421 source:c:\users\yasmine\desktop\student database\main.cpp
+	<gtk/gtk.h>
+	"GTKHelpers.h"
+
+1746129702 source:c:\users\yasmine\desktop\student database\sdbapp.cpp
+	"SDBAPP.h"
+
+1746115503 source:c:\users\yasmine\desktop\student database\sdb.cpp
+	"SDB.h"
+
+1746125430 c:\users\yasmine\desktop\student database\sdbapp.h
+	"GTKHelpers.h"
+	"platform_types.h"
+	<string>
+	<iostream>
+
+1746468486 source:d:\project c++\student database\gtkhelpers.cpp
+	"GTKHelpers.h"
+	<string>
+
+1746115371 d:\project c++\student database\gtkhelpers.h
+	<gtk/gtk.h>
+	"SDB.h"
+	"SDBAPP.h"
+
+1746456537 d:\project c++\student database\sdb.h
+	<stdio.h>
+	<stdbool.h>
+	"platform_types.h"
+	"GTKHelpers.h"
+	<string.h>
+	<stdlib.h>
+	"repository.h"
+
+1746456537 d:\project c++\student database\platform_types.h
+
+1746456537 d:\project c++\student database\sdbapp.h
+	"GTKHelpers.h"
+	"platform_types.h"
+	<string>
+	<iostream>
+
+1746468015 source:d:\project c++\student database\main.cpp
+	<gtk/gtk.h>
+	"GTKHelpers.h"
+	"SDB.h"
+	"SDBAPP.h"
+
+1746456537 source:d:\project c++\student database\sdb.cpp
+	"SDB.h"
+
+1746456537 source:d:\project c++\student database\sdbapp.cpp
+	"SDBAPP.h"
+	"repository.h"
+
+1746184316 d:\project c++\student database\repository.h
+	"platform_types.h"
+	"SDB.h"
+
+1746456537 source:d:\project c++\student database\repository.cpp
+	"repository.h"
+	"stdlib.h"
+	<iostream>
+
+1746468486 source:d:\student database\gtkhelpers.cpp
+	"GTKHelpers.h"
+	<string>
+
+1746115371 d:\student database\gtkhelpers.h
+	<gtk/gtk.h>
+	"SDB.h"
+	"SDBAPP.h"
+
+1746456537 d:\student database\sdb.h
+	<stdio.h>
+	<stdbool.h>
+	"platform_types.h"
+	"GTKHelpers.h"
+	<string.h>
+	<stdlib.h>
+	"repository.h"
+
+1746456537 d:\student database\platform_types.h
+
+1746184316 d:\student database\repository.h
+	"platform_types.h"
+	"SDB.h"
+
+1746456537 d:\student database\sdbapp.h
+	"GTKHelpers.h"
+	"platform_types.h"
+	<string>
+	<iostream>
+
+1746468015 source:d:\student database\main.cpp
+	<gtk/gtk.h>
+	"GTKHelpers.h"
+	"SDB.h"
+	"SDBAPP.h"
+
+1746456537 source:d:\student database\repository.cpp
+	"repository.h"
+	"stdlib.h"
+	<iostream>
+
+1746456537 source:d:\student database\sdb.cpp
+	"SDB.h"
+
+1746456537 source:d:\student database\sdbapp.cpp
+	"SDBAPP.h"
+	"repository.h"
+
+1746468486 source:d:\github\student database with gui\gtkhelpers.cpp
+	"GTKHelpers.h"
+	<string>
+
+1746115371 d:\github\student database with gui\gtkhelpers.h
+	<gtk/gtk.h>
+	"SDB.h"
+	"SDBAPP.h"
+
+1747488138 d:\github\student database with gui\sdb.h
+	<stdio.h>
+	<stdbool.h>
+	"platform_types.h"
+	"GTKHelpers.h"
+	<string.h>
+	<stdlib.h>
+	"repository.h"
+
+1746456537 d:\github\student database with gui\platform_types.h
+
+1746184316 d:\github\student database with gui\repository.h
+	"platform_types.h"
+	"SDB.h"
+
+1746456537 d:\github\student database with gui\sdbapp.h
+	"GTKHelpers.h"
+	"platform_types.h"
+	<string>
+	<iostream>
+
+1746468015 source:d:\github\student database with gui\main.cpp
+	<gtk/gtk.h>
+	"GTKHelpers.h"
+	"SDB.h"
+	"SDBAPP.h"
+
+1746456537 source:d:\github\student database with gui\repository.cpp
+	"repository.h"
+	"stdlib.h"
+	<iostream>
+
